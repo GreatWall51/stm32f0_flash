@@ -1,0 +1,7 @@
+[config_addr]
+mac_current_low_0_F=Y
+mac_current_low_0_A=00:00:20
+mac_current_low_1_F=Y
+mac_current_low_1_A=00:00:1A
+mac_current_low_2_F=
+mac_current_low_2_A=
